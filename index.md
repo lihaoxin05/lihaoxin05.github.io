@@ -1,6 +1,8 @@
 # Haoxin Li
 Master, SUN YAT-SEN UNIVERSITY
 ## About Me
+I am currently pursuing M.S. degree in Sun Yat-Sen University. I received the B.S. degree in the School of Electronics and Information Technology from Sun Yat-Sen University in 2018. My research interests include action and interaction analysis.
+
 You can use the [editor on GitHub](https://github.com/lihaoxin05/lihaoxin05.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
