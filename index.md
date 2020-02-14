@@ -1,12 +1,10 @@
 # Haoxin Li
-Master student
-
-SUN YAT-SEN UNIVERSITY, China
-
+Master student  
+SUN YAT-SEN UNIVERSITY, China  
 Email: lihaoxin05@gmail.com / lihx39@mail2.sysu.edu.cn
 
 ## About Me
-I am currently a Master student in Sun Yat-Sen University, China. I received the B.S. degree in the School of Electronics and Information Technology from Sun Yat-Sen University in 2018. My research interests include action and interaction analysis.
+I am currently a Master student in Sun Yat-Sen University, supervised by [Prof. Wei-Shi Zheng](http://www.isee-ai.cn/~zhwshi/). My research interest is computer vision and I am currently focusing on action and interaction analysis. Previously, I received the B.S. degree in the School of Electronics and Information Technology from Sun Yat-Sen University in 2018.
 
 You can use the [editor on GitHub](https://github.com/lihaoxin05/lihaoxin05.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
