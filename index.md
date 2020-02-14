@@ -2,7 +2,7 @@
 Master student  
 SUN YAT-SEN UNIVERSITY, China  
 Email: lihaoxin05@gmail.com / lihx39@mail2.sysu.edu.cn  
-!(https://github.com/lihaoxin05/lihaoxin05.github.io/blob/master/images/personal.jpg?raw=true)
+![hodq](https://github.com/lihaoxin05/lihaoxin05.github.io/blob/master/images/personal.jpg?raw=true)
 
 ## About Me
 I am currently a Master student in Sun Yat-Sen University, supervised by [Prof. Wei-Shi Zheng](http://www.isee-ai.cn/~zhwshi/). My research interest is computer vision and I am currently focusing on action and interaction analysis. Previously, I received the B.S. degree in the School of Electronics and Information Technology from Sun Yat-Sen University in 2018.
@@ -18,7 +18,7 @@ I am currently a Master student in Sun Yat-Sen University, supervised by [Prof. 
 
 - Yijun Cai, **Haoxin Li**, Jian-Fang Hu, Wei-Shi Zheng. Action Knowledge Transfer for Action Prediction with Partial Videos. In 33rd AAAI Conference on Artificial Intelligence (**AAAI**), 2019. [[paper](https://aaai.org/ojs/index.php/AAAI/article/view/4820/4693)]
 
-- Shuosen Guan, **Haoxin Li**, Wei-Shi Zheng. Unsupervised Learning for Optical Flow Estimation Using Pyramid Convolution LSTM. In IEEE International Conference on Multimedia and Expo (**ICME**), 2019.
+- Shuosen Guan, **Haoxin Li**, Wei-Shi Zheng. Unsupervised Learning for Optical Flow Estimation Using Pyramid Convolution LSTM. In IEEE International Conference on Multimedia and Expo (**ICME**), 2019. [[paper](https://arxiv.org/pdf/1907.11628.pdf)]
 
 ## Contests
 You can use the [editor on GitHub](https://github.com/lihaoxin05/lihaoxin05.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
