@@ -15,7 +15,7 @@ I am currently a Master student in Sun Yat-Sen University, supervised by [Prof. 
 ## Publications
 - **Haoxin Li**, Yijun Cai, Wei-Shi Zheng. Deep Dual Relation Modeling for Egocentric Interaction Recognition. In IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**), 2019.
 
-- Yijun Cai, **Haoxin Li**, Jian-Fang Hu, Wei-Shi Zheng. Action Knowledge Transfer for Action Prediction with Partial Videos. In 33rd AAAI Conference on Artificial Intelligence (**AAAI**), 2019. [paper](https://aaai.org/ojs/index.php/AAAI/article/view/4820/4693)
+- Yijun Cai, **Haoxin Li**, Jian-Fang Hu, Wei-Shi Zheng. Action Knowledge Transfer for Action Prediction with Partial Videos. In 33rd AAAI Conference on Artificial Intelligence (**AAAI**), 2019. [[paper](https://aaai.org/ojs/index.php/AAAI/article/view/4820/4693)]
 
 - Shuosen Guan, **Haoxin Li**, Wei-Shi Zheng. Unsupervised Learning for Optical Flow Estimation Using Pyramid Convolution LSTM. In IEEE International Conference on Multimedia and Expo (**ICME**), 2019.
 
