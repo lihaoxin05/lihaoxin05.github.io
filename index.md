@@ -1,7 +1,10 @@
 # Haoxin Li
 Master student
+
 SUN YAT-SEN UNIVERSITY, China
+
 Email: lihaoxin05@gmail.com / lihx39@mail2.sysu.edu.cn
+
 ## About Me
 I am currently a Master student in Sun Yat-Sen University, China. I received the B.S. degree in the School of Electronics and Information Technology from Sun Yat-Sen University in 2018. My research interests include action and interaction analysis.
 
