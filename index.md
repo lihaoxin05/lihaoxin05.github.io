@@ -10,7 +10,7 @@ Email: lihaoxin05@gmail.com / lihx39@mail2.sysu.edu.cn
       <p><b>Email: lihaoxin05@gmail.com / lihx39@mail2.sysu.edu.cn</b></p>
     </td>
     <td width="25%">
-      <img src="/images.personal.jpg" width="100%"> 
+      <img src="/images/personal.jpg" width="100%"> 
     </td>
   </tr>
 </table>
