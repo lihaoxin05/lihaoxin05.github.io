@@ -6,11 +6,11 @@ Email: lihaoxin05@gmail.com / lihx39@mail2.sysu.edu.cn
   <tr>
     <td width="75%">
       <p>Master student</p>
-      <p><b>SUN YAT-SEN UNIVERSITY, China</p>
+      <p>SUN YAT-SEN UNIVERSITY, China</p>
       <p>Email: lihaoxin05@gmail.com / lihx39@mail2.sysu.edu.cn</p>
     </td>
     <td width="25%">
-      <p><img src="/images/personal.jpg" width="100%"><p>
+      <img src="/images/personal.jpg" width="100%">
     </td>
   </tr>
 </table>
