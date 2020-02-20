@@ -12,7 +12,8 @@
         <p>Master student</p>
         <p>SUN YAT-SEN UNIVERSITY, China</p>
         <p>Email: lihaoxin05@gmail.com / lihx39@mail2.sysu.edu.cn</p>
-        <p></p>
+        <br />
+        <br />
     </div>
     <div class="figure">
         <img src="/images/personal.jpg">
