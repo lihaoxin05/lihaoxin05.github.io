@@ -16,7 +16,7 @@
     <div class="figure">
         <img src="/images/personal.jpg">
     </div>
-<body>
+</body>
 </html>
 
 ## About Me
