@@ -1,5 +1,5 @@
 # Haoxin Li &nbsp;&nbsp;&nbsp; 李昊昕
-<table border=0 frame=void rules=none>
+<table border=1 frame=void rules=none>
   <tr>
     <td width="75%">
       <p>Master student</p>
