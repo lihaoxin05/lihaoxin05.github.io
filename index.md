@@ -3,8 +3,8 @@
 <head>
 <style>
     .text{float:left;width:75%}
-    .figure{float:right;width:25%;}
-    .figure img{display:block;width:100%}
+    .figure{float:right;width:20%;}
+    .figure img{display:block;width:80%}
 </style>
 </head>
 <body>
@@ -16,7 +16,7 @@
     <div class="figure">
         <img src="/images/personal.jpg">
     </div>
-</body>
+<body>
 </html>
 
 ## About Me
