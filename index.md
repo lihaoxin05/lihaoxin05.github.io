@@ -4,12 +4,12 @@ SUN YAT-SEN UNIVERSITY, China
 Email: lihaoxin05@gmail.com / lihx39@mail2.sysu.edu.cn
 <table border="0">
   <tr>
-    <td width="75%">
+    <td width="60%">
       <p><b>Master student</b></p>
       <p><b>SUN YAT-SEN UNIVERSITY, China</b></p>
       <p><b>Email: lihaoxin05@gmail.com / lihx39@mail2.sysu.edu.cn</b></p>
     </td>
-    <td width="25%">
+    <td width="40%">
       <img src="/images/personal.jpg" width="100%"> 
     </td>
   </tr>
