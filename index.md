@@ -1,7 +1,19 @@
 # Haoxin Li &nbsp;&nbsp;&nbsp; 李昊昕
 Master student  
 SUN YAT-SEN UNIVERSITY, China  
-Email: lihaoxin05@gmail.com / lihx39@mail2.sysu.edu.cn  
+Email: lihaoxin05@gmail.com / lihx39@mail2.sysu.edu.cn
+<table border="0">
+  <tr>
+    <td width="75%">
+      <p><b>Master student</b></p>
+      <p><b>SUN YAT-SEN UNIVERSITY, China</b></p>
+      <p><b>Email: lihaoxin05@gmail.com / lihx39@mail2.sysu.edu.cn</b></p>
+    </td>
+    <td width="25%">
+      <img src="/images.personal.jpg" width="100%"> 
+    </td>
+  </tr>
+</table>
 
 ## About Me
 I am currently a Master student in Sun Yat-Sen University, supervised by [Prof. Wei-Shi Zheng](http://www.isee-ai.cn/~zhwshi/). My research interest is computer vision and I am currently focusing on action and interaction analysis. Previously, I received the B.S. degree in the School of Electronics and Information Technology from Sun Yat-Sen University in 2018.
