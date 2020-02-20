@@ -4,7 +4,7 @@
 <style>
     .text{float:left;width:70%}
     .figure{float:right;width:30%;}
-    .figure img{display:block;width:100%}
+    .figure img{display:block;width:90%}
 </style>
 </head>
 <body>
