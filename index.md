@@ -1,5 +1,7 @@
 # Haoxin Li &nbsp;&nbsp;&nbsp; 李昊昕
+<html>
 <P><IMG height=100 src="/images/personal.jpg" width=100 align=right border=0>Master student<br>SUN YAT-SEN UNIVERSITY, China<BR>&nbsp;<BR clear=left></P>
+</html>
 
 ## About Me
 I am currently a Master student in Sun Yat-Sen University, supervised by [Prof. Wei-Shi Zheng](http://www.isee-ai.cn/~zhwshi/). My research interest is computer vision and I am currently focusing on action and interaction analysis. Previously, I received the B.S. degree in the School of Electronics and Information Technology from Sun Yat-Sen University in 2018.
