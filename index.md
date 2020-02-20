@@ -12,8 +12,7 @@
         <p>M.Sc. Student</p>
         <p>SUN YAT-SEN UNIVERSITY, China</p>
         <p>Email: lihaoxin05@gmail.com / lihx39@mail2.sysu.edu.cn</p>
-        <p>Address: No. 132, Waihuan Dong Road, Panyu District, Guangzhou, Guangdong, China
-
+        <p>Address: No. 132, Waihuan Dong Road, Panyu District, Guangzhou, Guangdong, China</p>
     </div>
     <div class="figure">
         <img src="/images/personal.jpg">
