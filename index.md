@@ -9,9 +9,11 @@
 </head>
 <body>
     <div class="text">
-        <p>Master student</p>
+        <p>M.Sc. Student</p>
         <p>SUN YAT-SEN UNIVERSITY, China</p>
         <p>Email: lihaoxin05@gmail.com / lihx39@mail2.sysu.edu.cn</p>
+        <p>Address: No. 132, Waihuan Dong Road, Panyu District, Guangzhou, Guangdong, China
+
     </div>
     <div class="figure">
         <img src="/images/personal.jpg">
@@ -19,16 +21,14 @@
 </body>
 </html>  
 
-<p></p>
-
 ## About Me
-I am currently a Master student in Sun Yat-Sen University, supervised by [Prof. Wei-Shi Zheng](http://www.isee-ai.cn/~zhwshi/). My research interest is computer vision and I am currently focusing on action and interaction analysis. Previously, I received the B.S. degree in the School of Electronics and Information Technology from Sun Yat-Sen University in 2018.
+I am currently a M.Sc. student at Sun Yat-Sen University, advised by [Prof. Wei-Shi Zheng](http://www.isee-ai.cn/~zhwshi/). My research interest is computer vision and I am currently working on human action and interaction analysis in videos. Previously, I received the B.S. degree in the School of Electronics and Information Technology from Sun Yat-Sen University in 2018.
 
 ## Education
 - **Sun Yat-Sen University**: Aug., 2018 – Now  
-   - M.S Information and Communication Engineering
+   - M.Sc in Information and Communication Engineering
 - **Sun Yat-Sen University**: Aug., 2014 – June, 2018  
-   - B.E Telecommunication Engineering
+   - B.E in Electronic Engineering
 
 ## Publications
 - **Haoxin Li**, Yijun Cai, Wei-Shi Zheng. Deep Dual Relation Modeling for Egocentric Interaction Recognition. In IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**), 2019. [[paper](http://openaccess.thecvf.com/content_CVPR_2019/papers/Li_Deep_Dual_Relation_Modeling_for_Egocentric_Interaction_Recognition_CVPR_2019_paper.pdf)] [[supplementary material](http://openaccess.thecvf.com/content_CVPR_2019/supplemental/Li_Deep_Dual_Relation_CVPR_2019_supplemental.pdf)]
