@@ -19,8 +19,6 @@
 </body>
 </html>
 
-&nbsp;
-
 ## About Me
 I am currently a Master student in Sun Yat-Sen University, supervised by [Prof. Wei-Shi Zheng](http://www.isee-ai.cn/~zhwshi/). My research interest is computer vision and I am currently focusing on action and interaction analysis. Previously, I received the B.S. degree in the School of Electronics and Information Technology from Sun Yat-Sen University in 2018.
 
