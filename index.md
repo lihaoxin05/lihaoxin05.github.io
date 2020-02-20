@@ -4,7 +4,7 @@
 <style>
     .text{float:left;width:70%}
     .figure{float:right;width:30%;}
-    .figure img{display:block;width:90%}
+    .figure img{display:block;width:85%}
 </style>
 </head>
 <body>
@@ -21,7 +21,7 @@
 </html>  
 
 ## About Me
-I am currently a M.Sc. student at Sun Yat-Sen University, advised by [Prof. Wei-Shi Zheng](http://www.isee-ai.cn/~zhwshi/). My research interest is computer vision and I am currently working on human action and interaction analysis in videos. Previously, I received the B.S. degree in the School of Electronics and Information Technology from Sun Yat-Sen University in 2018.
+I am currently a M.Sc. student at Sun Yat-Sen University, advised by [Prof. Wei-Shi Zheng](http://www.isee-ai.cn/~zhwshi/). My research interest is computer vision and I am currently working on human action and interaction analysis in videos. 
 
 ## Education
 - **Sun Yat-Sen University**: Aug., 2018 – Now  
