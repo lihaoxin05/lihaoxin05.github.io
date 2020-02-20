@@ -1,8 +1,5 @@
 # Haoxin Li &nbsp;&nbsp;&nbsp; 李昊昕
-Master student  
-SUN YAT-SEN UNIVERSITY, China  
-Email: lihaoxin05@gmail.com / lihx39@mail2.sysu.edu.cn
-<table border="0">
+<table border=1>
   <tr>
     <td width="75%">
       <p>Master student</p>
