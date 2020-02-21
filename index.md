@@ -20,7 +20,7 @@
 </body>
 </html>  
 
-## About Me
+## About Me ([CV](/files/lihaoxin_cv.pdf))
 I am currently a M.Sc. student at Sun Yat-Sen University, advised by [Prof. Wei-Shi Zheng](http://www.isee-ai.cn/~zhwshi/). My research interest is computer vision and I am currently working on human action and interaction analysis in videos. 
 
 ## Education
@@ -38,3 +38,7 @@ I am currently a M.Sc. student at Sun Yat-Sen University, advised by [Prof. Wei-
 
 ## Contests
 - [ActivityNet Large-Scale Activity Recognition Challenge 2018](http://activity-net.org/challenges/2018/index.html): Trimmed Event Recognition ([Moments in Time Recognition Challenge](http://moments.csail.mit.edu/challenge.html)), **Rank**: 1/12 in Mini Track, 10/29 in Full Track. [[report](http://moments.csail.mit.edu/challenge2018/SYSU_isee.pdf)]
+
+## Awards
+- Outstanding Undergraduate Thesis Award, by Sun Yat-sen University, 2018
+- Chinese National Scholarship (1/264), by Minister of Education of China, 2015
