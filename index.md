@@ -2,7 +2,7 @@
 <head>
 <style>
     .figure{float:left;width:30%;}
-    .figure img{display:block;width:70%}
+    .figure img{display:block;width:75%}
     .text{float:right;width:70%}
 </style>
 </head>
@@ -11,10 +11,11 @@
         <img src="/images/personal.jpg">
     </div>
     <div class="text">
-        <p>**Haoxin Li** &nbsp;&nbsp;&nbsp; **李昊昕**</p>
+        <p><b>Haoxin Li</b> &nbsp;&nbsp;&nbsp; <b>李昊昕</b></p>
         <p>M.Sc. Student</p>
         <p>SUN YAT-SEN UNIVERSITY, China</p>
         <p>Email: lihaoxin05@gmail.com / lihx39@mail2.sysu.edu.cn</p>
+        <br>
     </div>
 </body>
 </html>  
