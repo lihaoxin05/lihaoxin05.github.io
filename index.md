@@ -1,9 +1,8 @@
-# Haoxin Li &nbsp;&nbsp;&nbsp; 李昊昕
 <html>
 <head>
 <style>
     .figure{float:left;width:30%;}
-    .figure img{display:block;width:100%}
+    .figure img{display:block;width:80%}
     .text{float:right;width:70%}
 </style>
 </head>
@@ -12,6 +11,7 @@
         <img src="/images/personal.jpg">
     </div>
     <div class="text">
+        <p>Haoxin Li &nbsp;&nbsp;&nbsp; 李昊昕</p>
         <p>M.Sc. Student</p>
         <p>SUN YAT-SEN UNIVERSITY, China</p>
         <p>Email: lihaoxin05@gmail.com / lihx39@mail2.sysu.edu.cn</p>
