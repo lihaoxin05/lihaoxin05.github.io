@@ -2,20 +2,19 @@
 <html>
 <head>
 <style>
-    .text{float:left;width:70%}
-    .figure{float:right;width:30%;}
+    .figure{float:left;width:30%;}
     .figure img{display:block;width:85%}
+    .text{float:right;width:100%}
 </style>
 </head>
 <body>
+    <div class="figure">
+        <img src="/images/personal.jpg">
+    </div>
     <div class="text">
         <p>M.Sc. Student</p>
         <p>SUN YAT-SEN UNIVERSITY, China</p>
         <p>Email: lihaoxin05@gmail.com / lihx39@mail2.sysu.edu.cn</p>
-        <p>Address: No. 132, Waihuan Dong Road, Panyu District, Guangzhou, Guangdong, China</p>
-    </div>
-    <div class="figure">
-        <img src="/images/personal.jpg">
     </div>
 </body>
 </html>  
