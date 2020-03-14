@@ -2,7 +2,7 @@
 <head>
 <style>
     .figure{float:left;width:30%;}
-    .figure img{display:block;width:80%}
+    .figure img{display:block;width:70%}
     .text{float:right;width:70%}
 </style>
 </head>
@@ -11,7 +11,7 @@
         <img src="/images/personal.jpg">
     </div>
     <div class="text">
-        <p>Haoxin Li &nbsp;&nbsp;&nbsp; 李昊昕</p>
+        <p>**Haoxin Li** &nbsp;&nbsp;&nbsp; **李昊昕**</p>
         <p>M.Sc. Student</p>
         <p>SUN YAT-SEN UNIVERSITY, China</p>
         <p>Email: lihaoxin05@gmail.com / lihx39@mail2.sysu.edu.cn</p>
@@ -29,7 +29,7 @@ I am currently a M.Sc. student at Sun Yat-Sen University, advised by [Prof. Wei-
    - B.E. in Electronic Engineering
 
 ## Publications
-- **Haoxin Li**, Wei-Shi Zheng, Yu Tao, Haifeng Hu, Jian-Huang Lai. Adaptive Interaction Modeling via Graph Operations Search. In IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**), 2020.
+- **Haoxin Li**, Wei-Shi Zheng, Yu Tao, Haifeng Hu, Jian-Huang Lai. Adaptive Interaction Modeling via Graph Operations Search. In IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**), 2020. [[code](https://github.com/lihaoxin05/graph-operations-search)]
 
 - **Haoxin Li**, Yijun Cai, Wei-Shi Zheng. Deep Dual Relation Modeling for Egocentric Interaction Recognition. In IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**), 2019. [[paper](http://openaccess.thecvf.com/content_CVPR_2019/papers/Li_Deep_Dual_Relation_Modeling_for_Egocentric_Interaction_Recognition_CVPR_2019_paper.pdf)] [[supplementary material](http://openaccess.thecvf.com/content_CVPR_2019/supplemental/Li_Deep_Dual_Relation_CVPR_2019_supplemental.pdf)]
 
