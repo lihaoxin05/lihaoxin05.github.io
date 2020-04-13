@@ -33,14 +33,14 @@ I am currently a M.Sc. student at Sun Yat-Sen University, advised by [Prof. Wei-
 - **Haoxin Li**, Wei-Shi Zheng, Yu Tao, Haifeng Hu, Jian-Huang Lai. Adaptive Interaction Modeling via Graph Operations Search. In IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**), 2020. [[code](https://github.com/lihaoxin05/graph-operations-search)]
     <details>
     <summary>Summary</summary>
-    <img src="/images/CVPR2020_framework.jpg" width = 50%>
+    ![](/images/CVPR2020_framework.jpg)
     We automate the process of structures design to learn adaptive structures for interaction modeling. We propose to search the network structures with differentiable architecture search mechanism, which learns to construct adaptive structures for different videos to facilitate adaptive interaction modeling.
     </details>
 
 - **Haoxin Li**, Yijun Cai, Wei-Shi Zheng. Deep Dual Relation Modeling for Egocentric Interaction Recognition. In IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**), 2019. [[paper](http://openaccess.thecvf.com/content_CVPR_2019/papers/Li_Deep_Dual_Relation_Modeling_for_Egocentric_Interaction_Recognition_CVPR_2019_paper.pdf)] [[supplementary material](http://openaccess.thecvf.com/content_CVPR_2019/supplemental/Li_Deep_Dual_Relation_CVPR_2019_supplemental.pdf)]
     <details>
     <summary>Summary</summary>
-    <img src="/images/CVPR2019_framework.jpg" width = 50%>
+    ![](/images/CVPR2019_framework.jpg)
     We automate the process of structures design to learn adaptive structures for interaction modeling. We propose to search the network structures with differentiable architecture search mechanism, which learns to construct adaptive structures for different videos to facilitate adaptive interaction modeling.
     </details>
 
