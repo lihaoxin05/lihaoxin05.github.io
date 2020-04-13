@@ -31,12 +31,22 @@ I am currently a M.Sc. student at Sun Yat-Sen University, advised by [Prof. Wei-
 
 ## Publications
 - **Haoxin Li**, Wei-Shi Zheng, Yu Tao, Haifeng Hu, Jian-Huang Lai. Adaptive Interaction Modeling via Graph Operations Search. In IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**), 2020. [[code](https://github.com/lihaoxin05/graph-operations-search)]
-<details>
-<summary>Summary</summary>
-We automate the process of structures design to learn adaptive structures for interaction modeling. We propose to search the network structures with differentiable architecture search mechanism, which learns to construct adaptive structures for different videos to facilitate adaptive interaction modeling.
-</details>
+    <details>
+    <summary>Summary</summary>
+    <div align=center>
+    <img src="/images/CVPR2020_framework.jpg" width = 50% />
+    </div>
+    We automate the process of structures design to learn adaptive structures for interaction modeling. We propose to search the network structures with differentiable architecture search mechanism, which learns to construct adaptive structures for different videos to facilitate adaptive interaction modeling.
+    </details>
 
 - **Haoxin Li**, Yijun Cai, Wei-Shi Zheng. Deep Dual Relation Modeling for Egocentric Interaction Recognition. In IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**), 2019. [[paper](http://openaccess.thecvf.com/content_CVPR_2019/papers/Li_Deep_Dual_Relation_Modeling_for_Egocentric_Interaction_Recognition_CVPR_2019_paper.pdf)] [[supplementary material](http://openaccess.thecvf.com/content_CVPR_2019/supplemental/Li_Deep_Dual_Relation_CVPR_2019_supplemental.pdf)]
+    <details>
+    <summary>Summary</summary>
+    <div align=center>
+    <img src="/images/CVPR2019_framework.jpg" width = 50% />
+    </div>
+    We automate the process of structures design to learn adaptive structures for interaction modeling. We propose to search the network structures with differentiable architecture search mechanism, which learns to construct adaptive structures for different videos to facilitate adaptive interaction modeling.
+    </details>
 
 - Yijun Cai, **Haoxin Li**, Jian-Fang Hu, Wei-Shi Zheng. Action Knowledge Transfer for Action Prediction with Partial Videos. In 33rd AAAI Conference on Artificial Intelligence (**AAAI**), 2019. [[paper](https://aaai.org/ojs/index.php/AAAI/article/view/4820/4693)]
 
