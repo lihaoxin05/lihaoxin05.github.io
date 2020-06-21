@@ -14,7 +14,7 @@
         <p><b>Haoxin Li</b> &nbsp;&nbsp;&nbsp; <b>李昊昕</b></p>
         <p>M.Sc. Student</p>
         <p>SUN YAT-SEN UNIVERSITY, China</p>
-        <p>Email: lihaoxin05@gmail.com / lihx39@mail2.sysu.edu.cn</p>
+        <p>Email: lihx39@mail2.sysu.edu.cn / lihaoxin05@gmail.com</p>
         <br>
     </div>
 </body>
@@ -30,7 +30,7 @@ I am currently a M.Sc. student at Sun Yat-Sen University, advised by [Prof. Wei-
    - B.E. in Electronic Engineering
 
 ## Publications
-- **Haoxin Li**, Wei-Shi Zheng, Yu Tao, Haifeng Hu, Jian-Huang Lai. Adaptive Interaction Modeling via Graph Operations Search. In IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**), 2020. [[arxiv](http://arxiv.org/abs/2005.02113)][[code](https://github.com/lihaoxin05/graph-operations-search)]
+- **Haoxin Li**, Wei-Shi Zheng, Yu Tao, Haifeng Hu, Jian-Huang Lai. Adaptive Interaction Modeling via Graph Operations Search. In IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**), 2020. [[arxiv](http://arxiv.org/abs/2005.02113)][[code](https://github.com/lihaoxin05/graph-operations-search)][[paper](http://openaccess.thecvf.com/content_CVPR_2020/papers/Li_Adaptive_Interaction_Modeling_via_Graph_Operations_Search_CVPR_2020_paper.pdf)][[supplementary material](http://openaccess.thecvf.com/content_CVPR_2020/supplemental/Li_Adaptive_Interaction_Modeling_CVPR_2020_supplemental.zip)]
     <details>
     <summary>Summary</summary>
     We automate the process of structures design to learn adaptive structures for interaction modeling. We propose to search the network structures with differentiable architecture search mechanism, which learns to construct adaptive structures for different videos to facilitate adaptive interaction modeling.
