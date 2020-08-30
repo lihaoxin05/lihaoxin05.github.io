@@ -33,7 +33,7 @@ I am currently a M.Sc. student at Sun Yat-Sen University, advised by [Prof. Wei-
 - **Haoxin Li**, Wei-Shi Zheng, Yu Tao, Haifeng Hu, Jian-Huang Lai. Adaptive Interaction Modeling via Graph Operations Search. In IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**), 2020. [[arxiv](http://arxiv.org/abs/2005.02113)][[code](https://github.com/lihaoxin05/graph-operations-search)][[paper](http://openaccess.thecvf.com/content_CVPR_2020/papers/Li_Adaptive_Interaction_Modeling_via_Graph_Operations_Search_CVPR_2020_paper.pdf)][[supplementary material](http://openaccess.thecvf.com/content_CVPR_2020/supplemental/Li_Adaptive_Interaction_Modeling_CVPR_2020_supplemental.zip)]
     <details>
     <summary>Summary</summary>
-    We automate the process of structures design to learn adaptive structures for interaction modeling. We propose to search the network structures with differentiable architecture search mechanism, which learns to construct adaptive structures for different videos to facilitate adaptive interaction modeling.
+    To learn adaptive structures to model interactions in different videos for interaction recognition, we automate the process of structures design by searching for adaptive network structures with differentiable architecture search mechanism, which facilitates adaptive interaction modeling in videos.
     <pre><center><img src="/images/CVPR2020_framework.jpg" width="90%"></center></pre>
     </details>
 
