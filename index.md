@@ -14,17 +14,17 @@
         <p><b>Haoxin Li</b> &nbsp;&nbsp;&nbsp; <b>李昊昕</b></p>
         <p>M.Sc. Student</p>
         <p>SUN YAT-SEN UNIVERSITY, China</p>
-        <p>Email: lihx39@mail2.sysu.edu.cn / lihaoxin05@gmail.com</p>
+        <p>Email: lihaoxin05@gmail.com</p>
         <br>
     </div>
 </body>
 </html>  
 
 ## About Me ([CV](/files/lihaoxin_cv.pdf))
-I am currently a M.Sc. student at Sun Yat-Sen University, advised by [Prof. Wei-Shi Zheng](http://www.isee-ai.cn/~zhwshi/). My research interest is computer vision and I am currently working on human action and interaction analysis in videos. 
+I am currently a M.Sc. student at Sun Yat-Sen University, supervised by [Prof. Wei-Shi Zheng](http://www.isee-ai.cn/~zhwshi/). My research interest is computer vision and I am currently working on human action and interaction analysis in videos. 
 
 ## Education
-- **Sun Yat-Sen University**: Aug., 2018 – Now  
+- **Sun Yat-Sen University**: Aug., 2018 – June, 2021  
    - M.Sc. in Information and Communication Engineering
 - **Sun Yat-Sen University**: Aug., 2014 – June, 2018  
    - B.E. in Electronic Engineering
@@ -37,7 +37,7 @@ I am currently a M.Sc. student at Sun Yat-Sen University, advised by [Prof. Wei-
     <pre><center><img src="/images/CVPR2020_framework.jpg" width="90%"></center></pre>
     </details>
 
-- **Haoxin Li**, Yijun Cai, Wei-Shi Zheng. Deep Dual Relation Modeling for Egocentric Interaction Recognition. In IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**), 2019. [[arxiv](http://arxiv.org/abs/1905.13586)] [[paper](http://openaccess.thecvf.com/content_CVPR_2019/papers/Li_Deep_Dual_Relation_Modeling_for_Egocentric_Interaction_Recognition_CVPR_2019_paper.pdf)] [[supplementary material](http://openaccess.thecvf.com/content_CVPR_2019/supplemental/Li_Deep_Dual_Relation_CVPR_2019_supplemental.pdf)]
+- **Haoxin Li**, Yijun Cai, Wei-Shi Zheng. Deep Dual Relation Modeling for Egocentric Interaction Recognition. In IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**), 2019. [[arxiv](http://arxiv.org/abs/1905.13586)][[code](https://github.com/lihaoxin05/egocentric-interaction/tree/master/human-human%20interaction)][[paper](http://openaccess.thecvf.com/content_CVPR_2019/papers/Li_Deep_Dual_Relation_Modeling_for_Egocentric_Interaction_Recognition_CVPR_2019_paper.pdf)] [[supplementary material](http://openaccess.thecvf.com/content_CVPR_2019/supplemental/Li_Deep_Dual_Relation_CVPR_2019_supplemental.pdf)]
     <details>
     <summary>Summary</summary>
     To exploit the strong relations between the two interacting persons in egocentric videos for egocentric interaction recognition, we introduce a dual relation modeling framework which learns to model the relations between the camera wearer and the interactor based on the individual action representations of the two persons.
@@ -47,6 +47,8 @@ I am currently a M.Sc. student at Sun Yat-Sen University, advised by [Prof. Wei-
 - Yijun Cai, **Haoxin Li**, Jian-Fang Hu, Wei-Shi Zheng. Action Knowledge Transfer for Action Prediction with Partial Videos. In 33rd AAAI Conference on Artificial Intelligence (**AAAI**), 2019. [[paper](https://aaai.org/ojs/index.php/AAAI/article/view/4820/4693)]
 
 - Shuosen Guan, **Haoxin Li**, Wei-Shi Zheng. Unsupervised Learning for Optical Flow Estimation Using Pyramid Convolution LSTM. In IEEE International Conference on Multimedia and Expo (**ICME**), 2019. [[paper](https://arxiv.org/pdf/1907.11628.pdf)]
+
+- Jiaming Zhou, Kun-Yu Lin, **Haoxin Li**, Wei-Shi Zheng. Graph-Based High-Order Relation Modeling for Long-Term Action Recognition. In IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**), 2021. [[paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Zhou_Graph-Based_High-Order_Relation_Modeling_for_Long-Term_Action_Recognition_CVPR_2021_paper.pdf)]
 
 ## Contests
 - [ActivityNet Large-Scale Activity Recognition Challenge 2018](http://activity-net.org/challenges/2018/index.html): Trimmed Event Recognition ([Moments in Time Recognition Challenge](http://moments.csail.mit.edu/challenge.html)), **Rank**: 1/12 in Mini Track, 10/29 in Full Track. [[report](http://moments.csail.mit.edu/challenge2018/SYSU_isee.pdf)]
