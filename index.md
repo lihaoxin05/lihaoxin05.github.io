@@ -12,18 +12,19 @@
     </div>
     <div class="text">
         <p><b>Haoxin Li</b> &nbsp;&nbsp;&nbsp; <b>李昊昕</b></p>
-        <p>M.Sc. Student</p>
-        <p>SUN YAT-SEN UNIVERSITY, China</p>
-        <p>Email: lihaoxin05@gmail.com</p>
+        <p>Ph.D. Student</p>
+        <p>Nanyang Technological University, Singapore</p>
+        <p>Email: lihaoxin05@gmail.com / haoxin003@e.ntu.edu.sg</p>
         <br>
     </div>
 </body>
 </html>  
 
 ## About Me ([CV](/files/lihaoxin_cv.pdf))
-I am currently a M.Sc. student at Sun Yat-Sen University, supervised by [Prof. Wei-Shi Zheng](http://www.isee-ai.cn/~zhwshi/). My research interest is computer vision and I am currently working on human action and interaction analysis in videos. 
+Haoxin Li is currently a Ph.D. student at Nanyang Technological University (NTU), supervised by [Prof. Boyang Li](http://www.boyangli.org/) and [Prof. Hanwang Zhang](https://personal.ntu.edu.sg/hanwangzhang/). He obtained his Master degree at Sun Yat-Sen University, supervised by [Prof. Wei-Shi Zheng](http://www.isee-ai.cn/~zhwshi/). His research interest is computer vision. 
 
 ## Education
+- **Nanyang Technological University**: Aug., 2021 – NOW  
 - **Sun Yat-Sen University**: Aug., 2018 – June, 2021  
    - M.Sc. in Information and Communication Engineering
 - **Sun Yat-Sen University**: Aug., 2014 – June, 2018  
