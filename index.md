@@ -12,19 +12,18 @@
     </div>
     <div class="text">
         <p><b>Haoxin Li</b> &nbsp;&nbsp;&nbsp; <b>李昊昕</b></p>
-        <p>Ph.D. Student</p>
-        <p>Nanyang Technological University, Singapore</p>
-        <p>Email: lihaoxin05@gmail.com / haoxin003@e.ntu.edu.sg</p>
+        <p>M.Sc. Student</p>
+        <p>SUN YAT-SEN UNIVERSITY, China</p>
+        <p>Email: lihaoxin05@gmail.com</p>
         <br>
     </div>
 </body>
 </html>  
 
 ## About Me ([CV](/files/lihaoxin_cv.pdf))
-Haoxin Li is currently a Ph.D. student at Nanyang Technological University (NTU), supervised by [Prof. Boyang Li](http://www.boyangli.org/) and [Prof. Hanwang Zhang](https://personal.ntu.edu.sg/hanwangzhang/). He obtained his Master degree at Sun Yat-Sen University, supervised by [Prof. Wei-Shi Zheng](http://www.isee-ai.cn/~zhwshi/). His research interest is computer vision. 
+I am currently a M.Sc. student at Sun Yat-Sen University, supervised by [Prof. Wei-Shi Zheng](http://www.isee-ai.cn/~zhwshi/). My research interest is computer vision and I am currently working on human action and interaction analysis in videos. 
 
 ## Education
-- **Nanyang Technological University**: Aug., 2021 – NOW  
 - **Sun Yat-Sen University**: Aug., 2018 – June, 2021  
    - M.Sc. in Information and Communication Engineering
 - **Sun Yat-Sen University**: Aug., 2014 – June, 2018  
@@ -36,6 +35,14 @@ Haoxin Li is currently a Ph.D. student at Nanyang Technological University (NTU)
     <summary>Summary</summary>
     To learn adaptive structures to model interactions in different videos for interaction recognition, we automate the process of structures design by searching for adaptive network structures with differentiable architecture search mechanism, which facilitates adaptive interaction modeling in videos.
     <pre><center><img src="/images/CVPR2020_framework.jpg" width="90%"></center></pre>
+    </details>
+
+- **Haoxin Li**, Wei-Shi Zheng, Jianguo Zhang, Haifeng Hu, Jiwen Lu, Jian-Huang Lai. Egocentric Action Recognition by Automatic
+Relation Modeling (**TPAMI**), 2022. [[code](https://github.com/lihaoxin05/egocentric-interaction/tree/master/human-human%20interaction)]
+    <details>
+    <summary>Summary</summary>
+    In this work, we consider modeling the relations in a weakly supervised manner, \ie without using annotations or prior knowledge about the interacting persons or objects, for egocentric action recognition. We form a weakly supervised framework by unifying automatic interactor localization and explicit relation modeling for the purpose of automatic relation modeling.
+    <pre><center><img src="/images/TPAMI2022_framework.jpg" width="90%"></center></pre>
     </details>
 
 - **Haoxin Li**, Yijun Cai, Wei-Shi Zheng. Deep Dual Relation Modeling for Egocentric Interaction Recognition. In IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**), 2019. [[arxiv](http://arxiv.org/abs/1905.13586)][[code](https://github.com/lihaoxin05/egocentric-interaction/tree/master/human-human%20interaction)][[paper](http://openaccess.thecvf.com/content_CVPR_2019/papers/Li_Deep_Dual_Relation_Modeling_for_Egocentric_Interaction_Recognition_CVPR_2019_paper.pdf)] [[supplementary material](http://openaccess.thecvf.com/content_CVPR_2019/supplemental/Li_Deep_Dual_Relation_CVPR_2019_supplemental.pdf)]
