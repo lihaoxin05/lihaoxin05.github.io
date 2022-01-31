@@ -38,7 +38,7 @@ I am currently a M.Sc. student at Sun Yat-Sen University, supervised by [Prof. W
     </details>
 
 - **Haoxin Li**, Wei-Shi Zheng, Jianguo Zhang, Haifeng Hu, Jiwen Lu, Jian-Huang Lai. Egocentric Action Recognition by Automatic
-Relation Modeling (**TPAMI**), 2022. [[code](https://github.com/lihaoxin05/egocentric-interaction/tree/master/human-human%20interaction)]
+Relation Modeling (**TPAMI**), 2022. [[code](https://github.com/lihaoxin05/egocentric-interaction/tree/master/human-object%20interaction)]
     <details>
     <summary>Summary</summary>
     In this work, we consider modeling the relations in a weakly supervised manner, \ie without using annotations or prior knowledge about the interacting persons or objects, for egocentric action recognition. We form a weakly supervised framework by unifying automatic interactor localization and explicit relation modeling for the purpose of automatic relation modeling.
