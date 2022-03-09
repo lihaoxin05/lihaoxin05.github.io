@@ -12,8 +12,8 @@
     </div>
     <div class="text">
         <p><b>Haoxin Li</b> &nbsp;&nbsp;&nbsp; <b>李昊昕</b></p>
-        <p>M.Sc. Student</p>
-        <p>SUN YAT-SEN UNIVERSITY, China</p>
+        <p>Ph.D. Student</p>
+        <p>Nanyang Technological University, Singapore</p>
         <p>Email: lihaoxin05@gmail.com</p>
         <br>
     </div>
@@ -21,9 +21,11 @@
 </html>  
 
 ## About Me ([CV](/files/lihaoxin_cv.pdf))
-I am currently a M.Sc. student at Sun Yat-Sen University, supervised by [Prof. Wei-Shi Zheng](http://www.isee-ai.cn/~zhwshi/). My research interest is computer vision and I am currently working on human action and interaction analysis in videos. 
+I am currently a Ph.D. Student at Nanyang Technological University, supervised by [Prof. Boyang Li](http://www.boyangli.org/) and [Prof. Hanwang Zhang](https://personal.ntu.edu.sg/hanwangzhang/). My research interest is computer vision and I am currently working on human action analysis in videos. 
 
 ## Education
+- **Sun Yat-Sen University**: Aug., 2021 – NOW  
+   - Ph.D. student in Computer Science and Engineering
 - **Sun Yat-Sen University**: Aug., 2018 – June, 2021  
    - M.Sc. in Information and Communication Engineering
 - **Sun Yat-Sen University**: Aug., 2014 – June, 2018  
@@ -38,7 +40,7 @@ I am currently a M.Sc. student at Sun Yat-Sen University, supervised by [Prof. W
     </details>
 
 - **Haoxin Li**, Wei-Shi Zheng, Jianguo Zhang, Haifeng Hu, Jiwen Lu, Jian-Huang Lai. Egocentric Action Recognition by Automatic
-Relation Modeling (**TPAMI**), 2022. [[code](https://github.com/lihaoxin05/egocentric-interaction/tree/master/human-object%20interaction)]
+Relation Modeling (**TPAMI**), 2022. [[code](https://github.com/lihaoxin05/egocentric-interaction/tree/master/human-object%20interaction)][[paper](https://ieeexplore.ieee.org/abstract/document/9706375)]
     <details>
     <summary>Summary</summary>
     In this work, we consider modeling the relations in a weakly supervised manner, \ie without using annotations or prior knowledge about the interacting persons or objects, for egocentric action recognition. We form a weakly supervised framework by unifying automatic interactor localization and explicit relation modeling for the purpose of automatic relation modeling.
