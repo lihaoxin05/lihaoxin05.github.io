@@ -21,10 +21,10 @@
 </html>  
 
 ## About Me ([CV](/files/lihaoxin_cv.pdf))
-I am currently a Ph.D. Student at Nanyang Technological University, supervised by [Prof. Boyang Li](http://www.boyangli.org/) and [Prof. Hanwang Zhang](https://personal.ntu.edu.sg/hanwangzhang/). My research interest is computer vision and I am currently working on human action analysis in videos. 
+I am currently a Ph.D. Student at Nanyang Technological University, supervised by [Prof. Boyang Li](http://www.boyangli.org/) and [Prof. Hanwang Zhang](https://personal.ntu.edu.sg/hanwangzhang/). My research interest is computer vision. 
 
 ## Education
-- **Sun Yat-Sen University**: Aug., 2021 – NOW  
+- **Nanyang Technological University**: Aug., 2021 – NOW  
    - Ph.D. student in Computer Science and Engineering
 - **Sun Yat-Sen University**: Aug., 2018 – June, 2021  
    - M.Sc. in Information and Communication Engineering
