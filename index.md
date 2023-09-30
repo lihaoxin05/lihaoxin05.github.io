@@ -14,7 +14,7 @@
         <p><b>Haoxin Li</b> &nbsp;&nbsp;&nbsp; <b>李昊昕</b></p>
         <p>Ph.D. Student</p>
         <p>Nanyang Technological University, Singapore</p>
-        <p>Email: lihaoxin05@gmail.com</p>
+        <p>Email: haoxin003@e.ntu.edu.sg / lihaoxin05@gmail.com</p>
         <br>
     </div>
 </body>
@@ -39,14 +39,14 @@ I am currently a Ph.D. Student at Nanyang Technological University. My research 
     <pre><center><img src="/images/CVPR2020_framework.jpg" width="90%"></center></pre>
     </details> -->
 
-- **Haoxin Li**, Yuan Liu, Hanwang Zhang, Boyang Li. Mitigating and Evaluating Static Bias of Action Representations in the Background and the Foreground. In IEEE International Conference on Computer Vision (**ICCV**), 2023. (**Oral**) [[arxiv](https://arxiv.org/abs/2211.12883)][[code](https://github.com/lihaoxin05/StillMix)]
+- **Haoxin Li**, Yuan Liu, Hanwang Zhang, Boyang Li. Mitigating and Evaluating Static Bias of Action Representations in the Background and the Foreground. In IEEE International Conference on Computer Vision (**ICCV**), 2023. (**Oral**) [[arxiv](https://arxiv.org/abs/2211.12883)][[code](https://github.com/lihaoxin05/StillMix)][[main paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Li_Mitigating_and_Evaluating_Static_Bias_of_Action_Representations_in_the_ICCV_2023_paper.pdf)][[supplementary material](https://openaccess.thecvf.com/content/ICCV2023/supplemental/Li_Mitigating_and_Evaluating_Static_Bias_of_Action_Representations_in_the_ICCV_2023_supplemental.pdf)]
 
-- **Haoxin Li**, Wei-Shi Zheng, Yu Tao, Haifeng Hu, Jian-Huang Lai. Adaptive Interaction Modeling via Graph Operations Search. In IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**), 2020. [[arxiv](http://arxiv.org/abs/2005.02113)][[code](https://github.com/lihaoxin05/graph-operations-search)][[paper](http://openaccess.thecvf.com/content_CVPR_2020/papers/Li_Adaptive_Interaction_Modeling_via_Graph_Operations_Search_CVPR_2020_paper.pdf)][[supplementary material](http://openaccess.thecvf.com/content_CVPR_2020/supplemental/Li_Adaptive_Interaction_Modeling_CVPR_2020_supplemental.zip)]
+- **Haoxin Li**, Wei-Shi Zheng, Yu Tao, Haifeng Hu, Jian-Huang Lai. Adaptive Interaction Modeling via Graph Operations Search. In IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**), 2020. [[arxiv](http://arxiv.org/abs/2005.02113)][[code](https://github.com/lihaoxin05/graph-operations-search)][[main paper](http://openaccess.thecvf.com/content_CVPR_2020/papers/Li_Adaptive_Interaction_Modeling_via_Graph_Operations_Search_CVPR_2020_paper.pdf)][[supplementary material](http://openaccess.thecvf.com/content_CVPR_2020/supplemental/Li_Adaptive_Interaction_Modeling_CVPR_2020_supplemental.zip)]
 
 - **Haoxin Li**, Wei-Shi Zheng, Jianguo Zhang, Haifeng Hu, Jiwen Lu, Jian-Huang Lai. Egocentric Action Recognition by Automatic
 Relation Modeling. IEEE Transactions on Pattern Analysis and Machine Intelligence (**TPAMI**), 2022. [[paper](https://ieeexplore.ieee.org/abstract/document/9706375)][[code](https://github.com/lihaoxin05/egocentric-interaction/tree/master/human-object%20interaction)]
 
-- **Haoxin Li**, Yijun Cai, Wei-Shi Zheng. Deep Dual Relation Modeling for Egocentric Interaction Recognition. In IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**), 2019. [[arxiv](http://arxiv.org/abs/1905.13586)][[code](https://github.com/lihaoxin05/egocentric-interaction/tree/master/human-human%20interaction)][[paper](http://openaccess.thecvf.com/content_CVPR_2019/papers/Li_Deep_Dual_Relation_Modeling_for_Egocentric_Interaction_Recognition_CVPR_2019_paper.pdf)] [[supplementary material](http://openaccess.thecvf.com/content_CVPR_2019/supplemental/Li_Deep_Dual_Relation_CVPR_2019_supplemental.pdf)]
+- **Haoxin Li**, Yijun Cai, Wei-Shi Zheng. Deep Dual Relation Modeling for Egocentric Interaction Recognition. In IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**), 2019. [[arxiv](http://arxiv.org/abs/1905.13586)][[code](https://github.com/lihaoxin05/egocentric-interaction/tree/master/human-human%20interaction)][[main paper](http://openaccess.thecvf.com/content_CVPR_2019/papers/Li_Deep_Dual_Relation_Modeling_for_Egocentric_Interaction_Recognition_CVPR_2019_paper.pdf)] [[supplementary material](http://openaccess.thecvf.com/content_CVPR_2019/supplemental/Li_Deep_Dual_Relation_CVPR_2019_supplemental.pdf)]
 
 - Yijun Cai, **Haoxin Li**, Jian-Fang Hu, Wei-Shi Zheng. Action Knowledge Transfer for Action Prediction with Partial Videos. In 33rd AAAI Conference on Artificial Intelligence (**AAAI**), 2019. [[paper](https://aaai.org/ojs/index.php/AAAI/article/view/4820/4693)]
 
