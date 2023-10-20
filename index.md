@@ -2,7 +2,7 @@
 <head>
 <style>
     .figure{float:left;width:30%;}
-    .figure img{display:block;width:65%}
+    .figure img{display:block;width:60%}
     .text{float:right;width:70%}
 </style>
 </head>
@@ -21,7 +21,7 @@
 </html>  
 
 ## About Me ([CV](/files/lihaoxin_cv.pdf))
-I am currently a Ph.D. Student at Nanyang Technological University. My research interest is computer vision. 
+I am currently a Ph.D. Student at Nanyang Technological University. My research interest is computer vision. I mainly work on video representation learning.
 
 ## Education
 - **Nanyang Technological University**: Aug., 2021 – NOW  
@@ -56,9 +56,7 @@ Relation Modeling. IEEE Transactions on Pattern Analysis and Machine Intelligenc
 
 - Yi Zhong, Jia-Hui Pan, **Haoxin Li**, Wei-Shi Zheng. Weakly supervised action anticipation without object annotations. Frontiers of Computer Science, 2023. [[paper](https://journal.hep.com.cn/fcs/EN/abstract/article/2095-2228/30889)]
 
-## Contests
-- [ActivityNet Large-Scale Activity Recognition Challenge 2018](http://activity-net.org/challenges/2018/index.html): Trimmed Event Recognition ([Moments in Time Recognition Challenge](http://moments.csail.mit.edu/challenge.html)), **Rank**: 1/12 in Mini Track, 10/29 in Full Track. [[report](http://moments.csail.mit.edu/challenge2018/SYSU_isee.pdf)]
 
-## Awards
-- Outstanding Undergraduate Thesis Award, by Sun Yat-sen University, 2018
-- Chinese National Scholarship (1/264), by Minister of Education of China, 2015
+## Honors and Awards
+- [ActivityNet Large-Scale Activity Recognition Challenge 2018](http://activity-net.org/challenges/2018/index.html): Trimmed Event Recognition ([Moments in Time Recognition Challenge](http://moments.csail.mit.edu/challenge.html)), **Rank**: 1/12 in Mini Track, 10/29 in Full Track. [[report](http://moments.csail.mit.edu/challenge2018/SYSU_isee.pdf)]
+- National Scholarship (1/264), by Minister of Education of China, 2015
