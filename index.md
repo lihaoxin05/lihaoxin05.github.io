@@ -21,7 +21,7 @@
 </html>  
 
 ## About Me ([CV](/files/lihaoxin_cv.pdf))
-I am currently a Ph.D. Student at Nanyang Technological University. My research interest is computer vision. I mainly work on video representation learning.
+I am currently a Ph.D. Student at Nanyang Technological University, under the supervision of [Prof. Boyang Li](http://boyangli.org/) and [Prof. Hanwang Zhang](https://mreallab.github.io/index.html). My research interest is computer vision. I obtained my Master degree from Sun Yat-Sen University, under the supervision of [Prof. Wei-Shi Zheng](https://www.isee-ai.cn/~zhwshi/index.html).
 
 ## Education
 - **Nanyang Technological University**: Aug., 2021 – NOW  
@@ -47,6 +47,8 @@ I am currently a Ph.D. Student at Nanyang Technological University. My research 
 Relation Modeling. IEEE Transactions on Pattern Analysis and Machine Intelligence (**TPAMI**), 2022. [[paper](https://ieeexplore.ieee.org/abstract/document/9706375)][[code](https://github.com/lihaoxin05/egocentric-interaction/tree/master/human-object%20interaction)]
 
 - **Haoxin Li**, Yijun Cai, Wei-Shi Zheng. Deep Dual Relation Modeling for Egocentric Interaction Recognition. In IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**), 2019. [[arxiv](http://arxiv.org/abs/1905.13586)][[code](https://github.com/lihaoxin05/egocentric-interaction/tree/master/human-human%20interaction)][[main paper](http://openaccess.thecvf.com/content_CVPR_2019/papers/Li_Deep_Dual_Relation_Modeling_for_Egocentric_Interaction_Recognition_CVPR_2019_paper.pdf)] [[supplementary material](http://openaccess.thecvf.com/content_CVPR_2019/supplemental/Li_Deep_Dual_Relation_CVPR_2019_supplemental.pdf)]
+
+- Miaoyu Li, **Haoxin Li**, Zilin Du, Boyang Li. Diversify, Rationalize, and Combine: Ensembling Multiple QA Strategies for Zero-shot Knowledge-based VQA. Findings of the Association for Computational Linguistics: EMNLP 2024. [[paper](https://aclanthology.org/2024.findings-emnlp.84.pdf)]
 
 - Yijun Cai, **Haoxin Li**, Jian-Fang Hu, Wei-Shi Zheng. Action Knowledge Transfer for Action Prediction with Partial Videos. In 33rd AAAI Conference on Artificial Intelligence (**AAAI**), 2019. [[paper](https://aaai.org/ojs/index.php/AAAI/article/view/4820/4693)]
 
