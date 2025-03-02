@@ -39,6 +39,8 @@ I am currently a Ph.D. Student at Nanyang Technological University, under the su
     <pre><center><img src="/images/CVPR2020_framework.jpg" width="90%"></center></pre>
     </details> -->
 
+- **Haoxin Li**, Boyang Li. Enhancing Vision-Language Compositional Understanding with Multimodal Synthetic Data. In IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**), 2025.
+
 - **Haoxin Li**, Yuan Liu, Hanwang Zhang, Boyang Li. Mitigating and Evaluating Static Bias of Action Representations in the Background and the Foreground. In IEEE International Conference on Computer Vision (**ICCV**), 2023. (**Oral**) [[arxiv](https://arxiv.org/abs/2211.12883)][[code](https://github.com/lihaoxin05/StillMix)][[main paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Li_Mitigating_and_Evaluating_Static_Bias_of_Action_Representations_in_the_ICCV_2023_paper.pdf)][[supplementary material](https://openaccess.thecvf.com/content/ICCV2023/supplemental/Li_Mitigating_and_Evaluating_Static_Bias_of_Action_Representations_in_the_ICCV_2023_supplemental.pdf)]
 
 - **Haoxin Li**, Wei-Shi Zheng, Yu Tao, Haifeng Hu, Jian-Huang Lai. Adaptive Interaction Modeling via Graph Operations Search. In IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**), 2020. [[arxiv](http://arxiv.org/abs/2005.02113)][[code](https://github.com/lihaoxin05/graph-operations-search)][[main paper](http://openaccess.thecvf.com/content_CVPR_2020/papers/Li_Adaptive_Interaction_Modeling_via_Graph_Operations_Search_CVPR_2020_paper.pdf)][[supplementary material](http://openaccess.thecvf.com/content_CVPR_2020/supplemental/Li_Adaptive_Interaction_Modeling_CVPR_2020_supplemental.zip)]
