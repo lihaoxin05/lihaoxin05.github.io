@@ -39,26 +39,26 @@ I am currently a Ph.D. Student at Nanyang Technological University, under the su
     <pre><center><img src="/images/CVPR2020_framework.jpg" width="90%"></center></pre>
     </details> -->
 
-- **Haoxin Li**, Yingchen Yu, Qilong Wu, Hanwang Zhang, Song Bai, Boyang Li. Learning to Animate Images from A Few Videos to Portray Delicate Human Actions. arxiv, 2025. [[arxiv](https://arxiv.org/abs/2503.00276)][[webpage](https://lihaoxin05.github.io/human_action_animation/)]
+- **Haoxin Li**, Yingchen Yu, Qilong Wu, Hanwang Zhang, Song Bai, Boyang Li. Learning to Animate Images from A Few Videos to Portray Delicate Human Actions. IEEE Winter Conference on Applications of Computer Vision (**WACV**), 2026. [[arxiv](https://arxiv.org/abs/2503.00276)][[webpage](https://lihaoxin05.github.io/human_action_animation/)]
 
 - **Haoxin Li**, Boyang Li. Enhancing Vision-Language Compositional Understanding with Multimodal Synthetic Data. IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**), 2025. [[arxiv](https://arxiv.org/abs/2503.01167)][[code](https://github.com/lihaoxin05/SPARCL)][[main paper](https://openaccess.thecvf.com/content/CVPR2025/papers/Li_Enhancing_Vision-Language_Compositional_Understanding_with_Multimodal_Synthetic_Data_CVPR_2025_paper.pdf)][[supplementary material](https://openaccess.thecvf.com/content/CVPR2025/supplemental/Li_Enhancing_Vision-Language_Compositional_CVPR_2025_supplemental.pdf)]
 
 - **Haoxin Li**, Yuan Liu, Hanwang Zhang, Boyang Li. Mitigating and Evaluating Static Bias of Action Representations in the Background and the Foreground. IEEE International Conference on Computer Vision (**ICCV**), 2023. (**Oral**) [[arxiv](https://arxiv.org/abs/2211.12883)][[code](https://github.com/lihaoxin05/StillMix)][[main paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Li_Mitigating_and_Evaluating_Static_Bias_of_Action_Representations_in_the_ICCV_2023_paper.pdf)][[supplementary material](https://openaccess.thecvf.com/content/ICCV2023/supplemental/Li_Mitigating_and_Evaluating_Static_Bias_of_Action_Representations_in_the_ICCV_2023_supplemental.pdf)]
 
-- **Haoxin Li**, Wei-Shi Zheng, Yu Tao, Haifeng Hu, Jian-Huang Lai. Adaptive Interaction Modeling via Graph Operations Search. IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**), 2020. [[arxiv](http://arxiv.org/abs/2005.02113)][[code](https://github.com/lihaoxin05/graph-operations-search)][[main paper](http://openaccess.thecvf.com/content_CVPR_2020/papers/Li_Adaptive_Interaction_Modeling_via_Graph_Operations_Search_CVPR_2020_paper.pdf)][[supplementary material](http://openaccess.thecvf.com/content_CVPR_2020/supplemental/Li_Adaptive_Interaction_Modeling_CVPR_2020_supplemental.zip)]
-
 - **Haoxin Li**, Wei-Shi Zheng, Jianguo Zhang, Haifeng Hu, Jiwen Lu, Jian-Huang Lai. Egocentric Action Recognition by Automatic
 Relation Modeling. IEEE Transactions on Pattern Analysis and Machine Intelligence (**TPAMI**), 2022. [[paper](https://ieeexplore.ieee.org/abstract/document/9706375)][[code](https://github.com/lihaoxin05/egocentric-interaction/tree/master/human-object%20interaction)]
+
+- **Haoxin Li**, Wei-Shi Zheng, Yu Tao, Haifeng Hu, Jian-Huang Lai. Adaptive Interaction Modeling via Graph Operations Search. IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**), 2020. [[arxiv](http://arxiv.org/abs/2005.02113)][[code](https://github.com/lihaoxin05/graph-operations-search)][[main paper](http://openaccess.thecvf.com/content_CVPR_2020/papers/Li_Adaptive_Interaction_Modeling_via_Graph_Operations_Search_CVPR_2020_paper.pdf)][[supplementary material](http://openaccess.thecvf.com/content_CVPR_2020/supplemental/Li_Adaptive_Interaction_Modeling_CVPR_2020_supplemental.zip)]
 
 - **Haoxin Li**, Yijun Cai, Wei-Shi Zheng. Deep Dual Relation Modeling for Egocentric Interaction Recognition. IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**), 2019. [[arxiv](http://arxiv.org/abs/1905.13586)][[code](https://github.com/lihaoxin05/egocentric-interaction/tree/master/human-human%20interaction)][[main paper](http://openaccess.thecvf.com/content_CVPR_2019/papers/Li_Deep_Dual_Relation_Modeling_for_Egocentric_Interaction_Recognition_CVPR_2019_paper.pdf)] [[supplementary material](http://openaccess.thecvf.com/content_CVPR_2019/supplemental/Li_Deep_Dual_Relation_CVPR_2019_supplemental.pdf)]
 
 - Miaoyu Li, **Haoxin Li**, Zilin Du, Boyang Li. Diversify, Rationalize, and Combine: Ensembling Multiple QA Strategies for Zero-shot Knowledge-based VQA. Findings of the Association for Computational Linguistics: EMNLP 2024. [[paper](https://aclanthology.org/2024.findings-emnlp.84.pdf)]
 
+- Jiaming Zhou, Kun-Yu Lin, **Haoxin Li**, Wei-Shi Zheng. Graph-Based High-Order Relation Modeling for Long-Term Action Recognition. IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**), 2021. [[paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Zhou_Graph-Based_High-Order_Relation_Modeling_for_Long-Term_Action_Recognition_CVPR_2021_paper.pdf)]
+
 - Yijun Cai, **Haoxin Li**, Jian-Fang Hu, Wei-Shi Zheng. Action Knowledge Transfer for Action Prediction with Partial Videos. 33rd AAAI Conference on Artificial Intelligence (**AAAI**), 2019. [[paper](https://aaai.org/ojs/index.php/AAAI/article/view/4820/4693)]
 
 - Shuosen Guan, **Haoxin Li**, Wei-Shi Zheng. Unsupervised Learning for Optical Flow Estimation Using Pyramid Convolution LSTM. IEEE International Conference on Multimedia and Expo (**ICME**), 2019. [[paper](https://arxiv.org/pdf/1907.11628.pdf)]
-
-- Jiaming Zhou, Kun-Yu Lin, **Haoxin Li**, Wei-Shi Zheng. Graph-Based High-Order Relation Modeling for Long-Term Action Recognition. IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**), 2021. [[paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Zhou_Graph-Based_High-Order_Relation_Modeling_for_Long-Term_Action_Recognition_CVPR_2021_paper.pdf)]
 
 - Yi Zhong, Jia-Hui Pan, **Haoxin Li**, Wei-Shi Zheng. Weakly supervised action anticipation without object annotations. Frontiers of Computer Science, 2023. [[paper](https://journal.hep.com.cn/fcs/EN/abstract/article/2095-2228/30889)]
 
