@@ -24,7 +24,7 @@
 I am currently a Ph.D. Student at Nanyang Technological University, under the supervision of [Prof. Boyang Li](http://boyangli.org/) and [Prof. Hanwang Zhang](https://mreallab.github.io/index.html). My research interest is computer vision. I obtained my Master degree from Sun Yat-Sen University, under the supervision of [Prof. Wei-Shi Zheng](https://www.isee-ai.cn/~zhwshi/index.html).
 
 ## Education
-- **Nanyang Technological University**: Aug., 2021 – NOW  
+- **Nanyang Technological University**: Aug., 2021 – Aug., 2025  
    - Ph.D. student in Computer Science and Engineering
 - **Sun Yat-Sen University**: Aug., 2018 – June, 2021  
    - M.Sc. in Information and Communication Engineering
@@ -39,7 +39,7 @@ I am currently a Ph.D. Student at Nanyang Technological University, under the su
     <pre><center><img src="/images/CVPR2020_framework.jpg" width="90%"></center></pre>
     </details> -->
 
-- **Haoxin Li**, Yingchen Yu, Qilong Wu, Hanwang Zhang, Song Bai, Boyang Li. Learning to Animate Images from A Few Videos to Portray Delicate Human Actions. IEEE Winter Conference on Applications of Computer Vision (**WACV**), 2026. [[arxiv](https://arxiv.org/abs/2503.00276)][[webpage](https://lihaoxin05.github.io/human_action_animation/)]
+- **Haoxin Li**, Yingchen Yu, Qilong Wu, Hanwang Zhang, Song Bai, Boyang Li. Learning to Animate Images from A Few Videos to Portray Delicate Human Actions. IEEE Winter Conference on Applications of Computer Vision (**WACV**), 2026. [[arxiv](https://arxiv.org/abs/2503.00276)][[webpage](https://lihaoxin05.github.io/human_action_animation/)][[code](https://github.com/lihaoxin05/FLASH)]
 
 - **Haoxin Li**, Boyang Li. Enhancing Vision-Language Compositional Understanding with Multimodal Synthetic Data. IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**), 2025. [[arxiv](https://arxiv.org/abs/2503.01167)][[code](https://github.com/lihaoxin05/SPARCL)][[main paper](https://openaccess.thecvf.com/content/CVPR2025/papers/Li_Enhancing_Vision-Language_Compositional_Understanding_with_Multimodal_Synthetic_Data_CVPR_2025_paper.pdf)][[supplementary material](https://openaccess.thecvf.com/content/CVPR2025/supplemental/Li_Enhancing_Vision-Language_Compositional_CVPR_2025_supplemental.pdf)]
 
