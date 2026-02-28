@@ -21,7 +21,7 @@
 </html>  
 
 ## About Me ([CV](/files/lihaoxin_cv.pdf))
-I am currently a Ph.D. Student at Nanyang Technological University, under the supervision of [Prof. Boyang Li](http://boyangli.org/) and [Prof. Hanwang Zhang](https://mreallab.github.io/index.html). My research interest is computer vision. I obtained my Master degree from Sun Yat-Sen University, under the supervision of [Prof. Wei-Shi Zheng](https://www.isee-ai.cn/~zhwshi/index.html).
+I am currently a Ph.D. Student at Nanyang Technological University, under the supervision of [Prof. Boyang Li](http://boyangli.org/) and [Prof. Hanwang Zhang](https://mreallab.github.io/index.html). I obtained my Master degree from Sun Yat-Sen University, under the supervision of [Prof. Wei-Shi Zheng](https://www.isee-ai.cn/~zhwshi/index.html).
 
 ## Education
 - **Nanyang Technological University**: Aug., 2021 – Aug., 2025  
@@ -39,7 +39,7 @@ I am currently a Ph.D. Student at Nanyang Technological University, under the su
     <pre><center><img src="/images/CVPR2020_framework.jpg" width="90%"></center></pre>
     </details> -->
 
-- **Haoxin Li**, Yingchen Yu, Qilong Wu, Hanwang Zhang, Song Bai, Boyang Li. Learning to Animate Images from A Few Videos to Portray Delicate Human Actions. IEEE Winter Conference on Applications of Computer Vision (**WACV**), 2026. [[arxiv](https://arxiv.org/abs/2503.00276)][[webpage](https://lihaoxin05.github.io/human_action_animation/)][[code](https://github.com/lihaoxin05/FLASH)]
+- **Haoxin Li**, Yingchen Yu, Qilong Wu, Hanwang Zhang, Song Bai, Boyang Li. Learning to Animate Images from A Few Videos to Portray Delicate Human Actions. IEEE Winter Conference on Applications of Computer Vision (**WACV**), 2026. [[arxiv](https://arxiv.org/abs/2503.00276)][[webpage](https://lihaoxin05.github.io/human_action_animation/)][[code](https://github.com/lihaoxin05/FLASH)][[main paper](https://openaccess.thecvf.com/content/WACV2026/papers/Li_Learning_to_Animate_Images_from_A_Few_Videos_to_Portray_WACV_2026_paper.pdf)][[supplementary material](https://openaccess.thecvf.com/content/WACV2026/supplemental/Li_Learning_to_Animate_WACV_2026_supplemental.pdf)]
 
 - **Haoxin Li**, Boyang Li. Enhancing Vision-Language Compositional Understanding with Multimodal Synthetic Data. IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**), 2025. [[arxiv](https://arxiv.org/abs/2503.01167)][[code](https://github.com/lihaoxin05/SPARCL)][[main paper](https://openaccess.thecvf.com/content/CVPR2025/papers/Li_Enhancing_Vision-Language_Compositional_Understanding_with_Multimodal_Synthetic_Data_CVPR_2025_paper.pdf)][[supplementary material](https://openaccess.thecvf.com/content/CVPR2025/supplemental/Li_Enhancing_Vision-Language_Compositional_CVPR_2025_supplemental.pdf)]
 
@@ -54,15 +54,24 @@ Relation Modeling. IEEE Transactions on Pattern Analysis and Machine Intelligenc
 
 - Miaoyu Li, **Haoxin Li**, Zilin Du, Boyang Li. Diversify, Rationalize, and Combine: Ensembling Multiple QA Strategies for Zero-shot Knowledge-based VQA. Findings of the Association for Computational Linguistics: EMNLP 2024. [[paper](https://aclanthology.org/2024.findings-emnlp.84.pdf)]
 
+- Yi Zhong, Jia-Hui Pan, **Haoxin Li**, Wei-Shi Zheng. Weakly supervised action anticipation without object annotations. Frontiers of Computer Science, 2023. [[paper](https://journal.hep.com.cn/fcs/EN/abstract/article/2095-2228/30889)]
+
 - Jiaming Zhou, Kun-Yu Lin, **Haoxin Li**, Wei-Shi Zheng. Graph-Based High-Order Relation Modeling for Long-Term Action Recognition. IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**), 2021. [[paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Zhou_Graph-Based_High-Order_Relation_Modeling_for_Long-Term_Action_Recognition_CVPR_2021_paper.pdf)]
 
 - Yijun Cai, **Haoxin Li**, Jian-Fang Hu, Wei-Shi Zheng. Action Knowledge Transfer for Action Prediction with Partial Videos. 33rd AAAI Conference on Artificial Intelligence (**AAAI**), 2019. [[paper](https://aaai.org/ojs/index.php/AAAI/article/view/4820/4693)]
 
 - Shuosen Guan, **Haoxin Li**, Wei-Shi Zheng. Unsupervised Learning for Optical Flow Estimation Using Pyramid Convolution LSTM. IEEE International Conference on Multimedia and Expo (**ICME**), 2019. [[paper](https://arxiv.org/pdf/1907.11628.pdf)]
 
-- Yi Zhong, Jia-Hui Pan, **Haoxin Li**, Wei-Shi Zheng. Weakly supervised action anticipation without object annotations. Frontiers of Computer Science, 2023. [[paper](https://journal.hep.com.cn/fcs/EN/abstract/article/2095-2228/30889)]
-
 
 ## Honors and Awards
 - [ActivityNet Large-Scale Activity Recognition Challenge 2018](http://activity-net.org/challenges/2018/index.html): Trimmed Event Recognition ([Moments in Time Recognition Challenge](http://moments.csail.mit.edu/challenge.html)), **Rank**: 1/12 in Mini Track, 10/29 in Full Track. [[report](http://moments.csail.mit.edu/challenge2018/SYSU_isee.pdf)]
 - National Scholarship (1/264), by Minister of Education of China, 2015
+
+## Service
+- Reviewer of CVPR2024, CVPR2025, CVPR2026
+- Reviewer of ICCV2023, ICCV2025
+- Reviewer of ECCV2024, ECCV2026
+- Reviewer of NeurIPS2024, NeurIPS2025
+- Reviewer of ICLR2025, ICLR2026
+- Reviewer of AAAI2023, AAAI2024, AAAI2025, AAAI2026
+- Reviewer of ACMMM2025, ACMMM2026
