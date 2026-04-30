@@ -12,16 +12,15 @@
     </div>
     <div class="text">
         <p><b>Haoxin Li</b> &nbsp;&nbsp;&nbsp; <b>李昊昕</b></p>
-        <p>Ph.D. Student</p>
-        <p>Nanyang Technological University, Singapore</p>
-        <p>Email: haoxin003@e.ntu.edu.sg / lihaoxin05@gmail.com</p>
+        <p>Tencent, China</p>
+        <p>Email: lihaoxin05@gmail.com</p>
         <br>
     </div>
 </body>
 </html>  
 
 ## About Me ([CV](/files/lihaoxin_cv.pdf))
-I am currently a Ph.D. Student at Nanyang Technological University, under the supervision of [Prof. Boyang Li](http://boyangli.org/) and [Prof. Hanwang Zhang](https://mreallab.github.io/index.html). I obtained my Master degree from Sun Yat-Sen University, under the supervision of [Prof. Wei-Shi Zheng](https://www.isee-ai.cn/~zhwshi/index.html).
+I am currently an AI Engineer at Tencent. I obtained my Ph.D. degree from Nanyang Technological University, under the supervision of [Prof. Boyang Li](http://boyangli.org/) and [Prof. Hanwang Zhang](https://mreallab.github.io/index.html). I received my Master degree from Sun Yat-Sen University, under the supervision of [Prof. Wei-Shi Zheng](https://www.isee-ai.cn/~zhwshi/index.html).
 
 ## Education
 - **Nanyang Technological University**: Aug., 2021 – Aug., 2025  
@@ -51,6 +50,8 @@ Relation Modeling. IEEE Transactions on Pattern Analysis and Machine Intelligenc
 - **Haoxin Li**, Wei-Shi Zheng, Yu Tao, Haifeng Hu, Jian-Huang Lai. Adaptive Interaction Modeling via Graph Operations Search. IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**), 2020. [[arxiv](http://arxiv.org/abs/2005.02113)][[code](https://github.com/lihaoxin05/graph-operations-search)][[main paper](http://openaccess.thecvf.com/content_CVPR_2020/papers/Li_Adaptive_Interaction_Modeling_via_Graph_Operations_Search_CVPR_2020_paper.pdf)][[supplementary material](http://openaccess.thecvf.com/content_CVPR_2020/supplemental/Li_Adaptive_Interaction_Modeling_CVPR_2020_supplemental.zip)]
 
 - **Haoxin Li**, Yijun Cai, Wei-Shi Zheng. Deep Dual Relation Modeling for Egocentric Interaction Recognition. IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**), 2019. [[arxiv](http://arxiv.org/abs/1905.13586)][[code](https://github.com/lihaoxin05/egocentric-interaction/tree/master/human-human%20interaction)][[main paper](http://openaccess.thecvf.com/content_CVPR_2019/papers/Li_Deep_Dual_Relation_Modeling_for_Egocentric_Interaction_Recognition_CVPR_2019_paper.pdf)] [[supplementary material](http://openaccess.thecvf.com/content_CVPR_2019/supplemental/Li_Deep_Dual_Relation_CVPR_2019_supplemental.pdf)]
+
+- Shuowei Li, **Haoxin Li**, Wenda Chu, Yi Fang. How Large Language Models Balance Internal Knowledge with User and Document Assertions. Findings of the Association for Computational Linguistics: ACL 2026. [[paper](https://arxiv.org/abs/2604.22193)]
 
 - Miaoyu Li, **Haoxin Li**, Zilin Du, Boyang Li. Diversify, Rationalize, and Combine: Ensembling Multiple QA Strategies for Zero-shot Knowledge-based VQA. Findings of the Association for Computational Linguistics: EMNLP 2024. [[paper](https://aclanthology.org/2024.findings-emnlp.84.pdf)]
 
