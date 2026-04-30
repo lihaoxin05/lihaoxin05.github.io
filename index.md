@@ -12,6 +12,7 @@
     </div>
     <div class="text">
         <p><b>Haoxin Li</b> &nbsp;&nbsp;&nbsp; <b>李昊昕</b></p>
+        <p>AI Engineer</p>
         <p>Tencent, China</p>
         <p>Email: lihaoxin05@gmail.com</p>
         <br>
@@ -24,7 +25,7 @@ I am currently an AI Engineer at Tencent. I obtained my Ph.D. degree from Nanyan
 
 ## Education
 - **Nanyang Technological University**: Aug., 2021 – Aug., 2025  
-   - Ph.D. student in Computer Science and Engineering
+   - Ph.D. in Computer Science and Engineering
 - **Sun Yat-Sen University**: Aug., 2018 – June, 2021  
    - M.Sc. in Information and Communication Engineering
 - **Sun Yat-Sen University**: Aug., 2014 – June, 2018  
